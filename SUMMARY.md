@@ -28,6 +28,10 @@
 * [3. Ideate](3.-ideate/README.md)
   * [Brainstorming Exercises](3.-ideate/brainstorming-exercises.md)
 * [4. Prototype](4.-prototype.md)
+* [5. Test](5.-test.md)
+* [6. Develop](6.-develop.md)
+* [7. Promote](7.-promote.md)
+* [8. Sustain](8.-sustain.md)
 
 ## Your Journey
 
@@ -47,6 +51,7 @@
 
 ## Running an Organization
 
+* [New Member Script](running-an-organization/new-member-script.md)
 * [Our Value Proposition](running-an-organization/our-value-proposition.md)
 * [Recruiting](running-an-organization/recruiting.md)
 * [Fundraising](running-an-organization/fundraising/README.md)
