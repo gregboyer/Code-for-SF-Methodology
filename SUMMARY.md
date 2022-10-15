@@ -83,3 +83,4 @@
 ## Partner With Us
 
 * [Outreach](partner-with-us/outreach.md)
+* [Contribute](partner-with-us/contribute.md)
