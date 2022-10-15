@@ -1,2 +1,0 @@
-# Habits of Successful Members
-

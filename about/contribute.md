@@ -1,6 +1,6 @@
 # Contribute
 
-This Guidebook is open to contirbutions, subject to rigorous review and editing.&#x20;
+This Handbook is open to contirbutions, subject to rigorous review and editing.&#x20;
 
 To contibute, reach out to greg@codeforsanfrancisco.org with your proposal.
 
