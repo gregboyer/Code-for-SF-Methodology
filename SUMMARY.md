@@ -3,7 +3,7 @@
 ## Our Mission
 
 * [Introduction](README.md)
-* [The Code for San Francisco Difference](README.md)
+* [The Code for San Francisco Difference](<README (1).md>)
 * [Creating Social Impact](our-mission/creating-social-impact.md)
 * [Creating Leaders](our-mission/creating-leaders.md)
 * [Removing Barriers](our-mission/removing-barriers.md)

@@ -4,6 +4,12 @@ We align our roles with professional job descriptions. This common terminology a
 
 This list is not all-inclusive, there are many many more ways that you can contribute to Code for San Francisco and your community, and you should never feel limited.&#x20;
 
+\*\*\*
+
+\<hr />
+
+\_\_\_
+
 \---
 
 ### Back-End Developer
