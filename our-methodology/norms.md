@@ -6,6 +6,8 @@ We've found the following norms help us to move forward together in our products
 
 **Decide and iterate.** It's easy to get lost in discussion and decisions when building a new product. The quickest way to know if something works is to try it.
 
+**Move up, move back.** If you find yourself speaking a lot, try to move back and listen more deeply instead. If you tend to listen a lot, move up and be hear.
+
 **Plus ones.** Looking to make a decision? Ask another team member to add their plus one and move forward. Inform the rest of the team via slack for visibility. If you want to be included, just raise your hand and ask! <img src="https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f64b-200d-2642-fe0f@2x.png" alt=":man-raising-hand:" data-size="line">****
 
 **Include others in the discussions.** It’s easy to miss people when we’re not in the same room. Consider a designated note taker or recording important calls so that colleagues who were not able to join can keep up-to-date. If you notice that someone isn’t participating, call on them or send a chat message! When possible, hold discussions in public channels rather than DMs.
