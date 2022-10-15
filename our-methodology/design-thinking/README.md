@@ -8,11 +8,6 @@ Guidebook, not a rulebook
 * You’ll find this process across product companies like Apple, Google, Microsoft, Nike, Bank of America, and more. Regardless of your skillset, working through this process will enrich your skills, build your portfolio, and build products people will really love.
 * We’ll follow through examples of a fictional app, “Code for San Francisco” to see how Design Thinking saves time and improves the product.
 * Each step along your products development has specific deliverables that you need to provide before moving on.
-
-
-
-
-
 * We often think we know how to solve a problem, because we know what would help us. But what happens when you and your team have invested thousands of hours into your open-source project only to find that people don’t want to use it?
 
 Because design thinking requires us to explore ideas critically early in the process, provides some great benefits over “we’ll just build an app”:
@@ -26,8 +21,6 @@ Because design thinking requires us to explore ideas critically early in the pro
 3.  Leverage expertise
 
     This is a community of doers, and we often pick the hardest problems. By including the community in the process, we’re learning from the experts. No one can tell you more about the challenges faced by the unhoused than those experiencing it, and no one can give you insight like community orgs already working on pieces of the solution.
-
-
 
 * Design before developing
 * Build with, not for the community

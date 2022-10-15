@@ -2,7 +2,7 @@
 
 In each phase:
 
-Estimated duration:&#x20;
+Estimated duration:
 
 Tools used
 
@@ -11,10 +11,6 @@ Tools used
 \*\*\*
 
 \<hr />
-
-
-
-
 
 *
   1. Empathize
