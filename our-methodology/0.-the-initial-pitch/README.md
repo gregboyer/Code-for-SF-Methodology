@@ -2,7 +2,7 @@
 
 This serves as the very initial project, what people will see. It's a living document that you'll update throguh out the project.
 
-15 minutes writing onboarding will save you 15 minutes for EVERY NEW MEMBER.&#x20;
+15 minutes writing onboarding will save you 15 minutes for EVERY NEW MEMBER.
 
 some good terms for onboarding documentation:
 
@@ -20,13 +20,7 @@ A better template for new projects:
 
 [https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit#heading=h.vmtx2efy22dg](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit#heading=h.vmtx2efy22dg)
 
-
-
-
-
 Review Expectations, then approve
-
-
 
 Measureable impact
 

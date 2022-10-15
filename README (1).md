@@ -10,11 +10,7 @@ No barriers
 
 Civic hack night
 
-
-
 Career, Civics, Products
-
-
 
 A few things you should know first:
 
@@ -22,10 +18,6 @@ A few things you should know first:
 2. We have no application process, and no barriers to entry. If you are willing to roll up your sleeves and put in some effort, you can create something pretty damn cool with us.
 
 A place to safely experiment and explore
-
-
-
-
 
 * We build tech projects that are:
   * Open source
