@@ -25,13 +25,9 @@ _Ways of working that help us do our best together_\*\*\*\*
 *
 *
 
-```
-## Best Practices:
-```
+    ## Best Practices:
 
-```
-* **Document document document.** Documentation is how you build a lasting legacy on a project, and also how you build something you can put on your resume or on LinkedIN.
-* **Take Notes and Record Calls.** More people will be joining asynchronously, so consider designating a note taker and/or recording calls
-* **Over-communicate.** Ask more questions, drop notes on slack, create more github issues or to-dos, it’s easy to miss details when we’re not face-to-face.
-* **Assume the best intent.** Communication details can get lost when we’re all remote. It’s usually safe to assume that someone might be busy, distracted, etc. rather than rude or uncommunicative
-```
+    * **Document document document.** Documentation is how you build a lasting legacy on a project, and also how you build something you can put on your resume or on LinkedIN.
+    * **Take Notes and Record Calls.** More people will be joining asynchronously, so consider designating a note taker and/or recording calls
+    * **Over-communicate.** Ask more questions, drop notes on slack, create more github issues or to-dos, it’s easy to miss details when we’re not face-to-face.
+    * **Assume the best intent.** Communication details can get lost when we’re all remote. It’s usually safe to assume that someone might be busy, distracted, etc. rather than rude or uncommunicative
