@@ -1,8 +1,23 @@
+---
+description: Everything we do is driven by our values.
+---
+
 # Values
 
+*   **Listen First**
+
+    Empathy is at the core of our work. We know we don’t have all the answers. We listen carefully and try our best to understand and meet people where they are today.
 
 
-* **Build with, not for.** Results come from partnerships with our community, including the city and non-profit organizations. Lean on their experience and networks.
-* **Decide and iterate.** It's easy to get lost in discussion and decisions when building a new product. The quickest way to know if something works is to try it.
-* **Give 10 take 1.** As a volunteer organization, we invest time and energy into each other. Spend more time contributing and documenting than you receiving in onboarding and training.
-* **Experiment and share back**. There are no experts on how to make an open source project stick, no experts on running a non-profit organization with no paid staff. No guidebooks, no playbooks. Experiment, and share what you learn with others.
+
+*   **Include Those Who’ve Been Excluded**
+
+    We strive to reach people and communities who have been left out by leveraging our resources to create a more just and equitable world. We believe that we all do better when we all do better.
+
+
+
+*   **Act with Intention**
+
+    We don’t hesitate to go after big, complex problems—and we build together with those who have been doing this work for decades. We find our way over obstacles, and we make it work.
+
+****
