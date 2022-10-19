@@ -2,11 +2,7 @@
 
 We've found the following norms help us to move forward together in our products and as a community.&#x20;
 
-**Build with, not for.** Results come from partnerships with our community, including the city and non-profit organizations. Lean on their experience and networks.
-
-**Open door policy.** Anyone can join any product meeting, organizing meeting, discussion or event as long as they uphold our Code of Conduct. Please be respectful.
-
-**Give 10 take 1.** As a volunteer organization, we invest time and energy into each other. Spend more time contributing and documenting than you receiving in onboarding and training.
+**Open door policy.** Anyone can join any meeting as long as they uphold our Code of Conduct. Please be respectful
 
 **Decide and iterate.** It's easy to get lost in discussion and decisions when building a new product. The quickest way to know if something works is to try it.
 
